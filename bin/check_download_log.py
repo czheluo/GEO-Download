@@ -1,5 +1,4 @@
-#!/mnt/ilustre/centos7users/dna/.env/bin/python2 python
-'''#!/usr/bin/python'''
+#!/usr/bin/python
 # -*- coding:utf-8 -*-
 
 import sys
